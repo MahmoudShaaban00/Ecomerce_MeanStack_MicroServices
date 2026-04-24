@@ -163,21 +163,3 @@ MIT License
 
 👨‍💻 Author
 Mahmoud Shaaban
-
-💡 ملاحظة سريعة
-عدد الـ # بيحدد الحجم:
-# أكبر عنوان (H1)## عنوان أصغر (H2)### عنوان أصغر (H3)#### وهكذا...
-
-لو عايز أضيفلك كمان:
-
-
-badges زي GitHub stars / build status
-
-
-أو architecture diagram (شكل احترافي جدًا)
-
-
-أو API docs (Swagger)
-
-
-قولّي 👌🔥
